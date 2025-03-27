@@ -34,17 +34,7 @@ This opens an interactive menu where you can perform different cryptographic ope
 
 ---
 
-## 📂 Project Structure
-```sh
-📦 Secure Key Management
- ┣ 📜 aes_keygen.py         # AES Key Generation
- ┣ 📜 rsagen.py             # RSA Key Pair Generation
- ┣ 📜 authentication.py     # Digital Signatures (Sign & Verify)
- ┣ 📜 certificate_manager.py # X.509 Certificate Management
- ┣ 📜 krl_manager.py        # Key Revocation List (KRL)
- ┣ 📜 main.py               # Main CLI Application
- ┗ 📜 README.md             # Project Documentation
-```
+
 
 ---
 
